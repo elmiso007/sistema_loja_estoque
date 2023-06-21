@@ -1,2 +1,1 @@
-"# sistema_loja_estoque" 
-"# sistema_loja_estoque" 
+Pequeno sistema para lojas terem controle de seu estoque.
